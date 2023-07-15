@@ -54,6 +54,7 @@ callgrind.out.*
 .project
 .settings
 .tmproj
+.vscode
 nbproject
 Thumbs.db
 
@@ -63,6 +64,7 @@ Thumbs.db
 /bin/
 _build
 build
+install
 /dep/libmpq/autom4te.cache/
 
 # Generated files
@@ -77,6 +79,7 @@ cmake_install.cmake
 CMakeCache.txt
 CMakeFiles
 ipch
+compile_commands.json
 
 # EasyBuild created debug files
 cmake.cmd
